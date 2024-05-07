@@ -1,4 +1,4 @@
-# Day-1-Projects
+# Day1Projects
 First day learning C#
 
 Simple calculator applications 
